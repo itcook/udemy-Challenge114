@@ -1,5 +1,5 @@
 //
-//  XDViewController.h
+//  XDTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Wayne on 14-2-26.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface XDViewController : UIViewController
+@interface XDTableViewController : UITableViewController
 
 @end
